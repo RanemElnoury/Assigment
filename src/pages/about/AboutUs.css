@@ -1,0 +1,10 @@
+.about{
+    display: flex !important;
+    justify-content: center !important;
+   margin-top: 5%;
+    h2{
+        color: rgba(165, 42, 42, 0.684) !important;
+        font-size: 2rem;
+        font-weight: 600;
+    }
+}
