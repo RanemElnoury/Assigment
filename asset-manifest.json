@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Assigment/static/css/main.23ef46bf.css",
+    "main.js": "/Assigment/static/js/main.edf55359.js",
+    "static/media/2 (2).jpg": "/Assigment/static/media/2 (2).9e931dc381f3a12efc7e.jpg",
+    "index.html": "/Assigment/index.html",
+    "main.23ef46bf.css.map": "/Assigment/static/css/main.23ef46bf.css.map",
+    "main.edf55359.js.map": "/Assigment/static/js/main.edf55359.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ef46bf.css",
+    "static/js/main.edf55359.js"
+  ]
+}
